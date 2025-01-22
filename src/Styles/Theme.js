@@ -1,3 +1,4 @@
+HEAD
 const theme = {
   colors: {
     primary: "#262626",
@@ -14,5 +15,5 @@ const theme = {
     },
   },
 };
-
 export default theme;
+

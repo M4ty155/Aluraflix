@@ -1,3 +1,4 @@
+
 import styled from "styled-components";
 
 export const PageContainer = styled.div`
@@ -9,3 +10,4 @@ export const PageContainer = styled.div`
 export const ContentWrapper = styled.div`
   flex: 1;
 `;
+

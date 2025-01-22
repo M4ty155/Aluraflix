@@ -1,3 +1,4 @@
+HEAD
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import BasePage from "./Pages/BasePage/BasePage";
@@ -19,3 +20,4 @@ function AppRoutes() {
 }
 
 export default AppRoutes;
+
